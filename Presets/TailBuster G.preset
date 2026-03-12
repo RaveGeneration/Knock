@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="49" p0="0" p1="0.46500000357627869" p2="0.35499998927116394" p3="0.28999999165534973" p4="0.82499998807907104" p5="0.18000000715255737" p6="1" p7="0" p8="0" p9="0" p10="1" p11="0.83499997854232788" p12="0.18500000238418579" p13="0" p14="0" p15="1" p16="0" p17="0.72500002384185791" p18="2" p19="0.49000000953674316" p20="0.72500002384185791" p21="1" p22="0.32499998807907104" p23="0.62999999523162842" p24="1" p25="0.67000001668930054" p26="0" p27="8" p28="0.16500000655651093" p29="5" p30="0.045000001788139343" p31="0.14000000059604645" p32="0.28999999165534973" p33="1" p34="0" p35="22.200000286102295" p36="8.550000786781311" p37="0" p38="5.2499997615814209" p39="-6.4500001072883606" p40="0.04999999888241291" p41="8.4500002861022949" p42="0" p43="0" p44="0" p45="1" p46="0.33000000000000002" p47="0" p48="75"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1="026Q-XZN6-MTAF-H45Q-STAC-0621"/>
+    <internalDSPState/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="4">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="skin_scanner_enabled" value="0"/>
+                    <p3 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

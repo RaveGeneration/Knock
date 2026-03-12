@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="49" p0="0" p1="0.58499997854232788" p2="0.81999999284744263" p3="0.63999998569488525" p4="0.81000000238418579" p5="0" p6="1" p7="0" p8="0" p9="0" p10="1" p11="0.38999998569488525" p12="0.2199999988079071" p13="0.1550000011920929" p14="0.11999999731779099" p15="1" p16="0.80000001192092896" p17="0.67500001192092896" p18="0" p19="0.47999998927116394" p20="0.33500000834465027" p21="1" p22="0.81499999761581421" p23="0.46500000357627869" p24="0.44999998807907104" p25="0.64999997615814209" p26="0" p27="2" p28="0.1550000011920929" p29="7" p30="0.43999999761581421" p31="0.14000000059604645" p32="0" p33="2" p34="0" p35="11.399999856948853" p36="-0.90000003576278687" p37="4.2500001192092896" p38="5" p39="7.0500004291534424" p40="0.45000001788139343" p41="10" p42="0.89999914169311523" p43="6.7500007152557373" p44="1" p45="1" p46="0.33000000000000002" p47="0" p48="75"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1="026Q-XZN6-MTAF-H45Q-STAC-0621"/>
+    <internalDSPState/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="4">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="skin_scanner_enabled" value="0"/>
+                    <p3 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="49" p0="0" p1="0.68500000238418579" p2="0.27500000596046448" p3="0.56000000238418579" p4="0.61500000953674316" p5="0.38499999046325684" p6="1" p7="0" p8="0" p9="0" p10="1" p11="0.65499997138977051" p12="0.2800000011920929" p13="0.46000000834465027" p14="0" p15="1" p16="0.27000001072883606" p17="0.094999998807907104" p18="2" p19="0.49000000953674316" p20="0.77499997615814209" p21="0.054999999701976776" p22="0.54500001668930054" p23="0.4050000011920929" p24="0.75999999046325684" p25="0.67000001668930054" p26="0" p27="2" p28="0.1550000011920929" p29="7" p30="0.43999999761581421" p31="0.14000000059604645" p32="0.045000001788139343" p33="2" p34="0" p35="1.4000000059604645" p36="0.7499992847442627" p37="0.04999999888241291" p38="2.2499999403953552" p39="9.7499996423721313" p40="0.54999999701976776" p41="10" p42="3.0000007152557373" p43="10.049999356269836" p44="1" p45="1" p46="0.33000000000000002" p47="0" p48="75"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1="026Q-XZN6-MTAF-H45Q-STAC-0621"/>
+    <internalDSPState/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="4">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="skin_scanner_enabled" value="0"/>
+                    <p3 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
