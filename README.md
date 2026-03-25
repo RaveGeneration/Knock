@@ -1,1 +1,1 @@
-<img width="1620" height="656" alt="knock screen 104" src="https://github.com/user-attachments/assets/dfda960e-6417-4b33-b7c6-739d9d54c61c" />
+<img width="2378" height="821" alt="knock screen 104 150pr" src="https://github.com/user-attachments/assets/d2b65ebb-80a2-4e13-a6e6-67b2a0162a13" />
